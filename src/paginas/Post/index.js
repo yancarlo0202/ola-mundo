@@ -1,5 +1,5 @@
 import './Post.css';
-import styles from './Post.modules.css';
+import styles from './Post.module.css';
 
 import { Route, Routes, useParams } from "react-router-dom";
 import posts from "json/posts.json";
